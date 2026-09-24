@@ -13,12 +13,12 @@ Antes coordiné obra eléctrica en un data center de Microsoft y en una nave de 
 | Proyecto | Qué es | Estado |
 |---|---|---|
 | [**CoreIT**](https://github.com/egarciav99/CoreIT) | Hub de automatizaciones para empresas. Conecta con n8n: PDF técnico → secciones → revisión humana → Excel | Prototipo, presentado al primer cliente |
-| [**Bocado AI**](https://github.com/egarciav99/BOCADO-AI) · [demo](https://bocado-ai.vercel.app) | App de nutrición con IA. Proyecto en colaboración: me encargué de toda la parte técnica | Demo funcional, lanzamiento pendiente |
+| [**Bocado AI**](https://bocado-ai.vercel.app) (código privado) | App de nutrición con IA. Proyecto en colaboración: me encargué de toda la parte técnica | Demo funcional, lanzamiento pendiente |
 | [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | Generador de cartas de presentación con IA, con n8n de por medio | En uso real |
 | [**PDF Technical Assistant**](https://github.com/egarciav99/PdfTechAssistant) · [demo](https://pdf-tech-assistant2.vercel.app) | Asistente RAG para documentación técnica (Supabase + pgvector + Gemini) | Funcional, en desarrollo |
 | [**EG Solutions web**](https://github.com/egarciav99/EG-solutions) · [web](https://www.egsolutions.tech) | Web de mi empresa, con clasificación de leads por IA y seguimiento automático | En producción |
 
-Además tengo automatizaciones en n8n que uso a diario: un motor de contenido para LinkedIn con aprobación humana, un radar de noticias del sector y triaje de correo.
+Además tengo automatizaciones en n8n que uso a diario: un motor de contenido para LinkedIn con aprobación humana, un radar de noticias del sector y triaje de correo. También tengo una [API en Python (FastAPI)](https://github.com/egarciav99/pdf-text-extractor-api) que extrae el texto de PDFs, pensada para usarse desde n8n.
 
 ## Stack
 
