@@ -13,12 +13,12 @@ Before that I coordinated electrical construction on a Microsoft data center and
 | Project | What it is | Status |
 |---|---|---|
 | [**CoreIT**](https://github.com/egarciav99/CoreIT) | Automation hub for companies, connected to n8n: technical PDF → sections → human review → Excel | Prototype, presented to the first client |
-| [**Bocado AI**](https://github.com/egarciav99/BOCADO-AI) · [demo](https://bocado-ai.vercel.app) | AI nutrition app. A collaboration where I led all the tech | Working demo, launch pending |
+| [**Bocado AI**](https://bocado-ai.vercel.app) (private code) | AI nutrition app. A collaboration where I led all the tech | Working demo, launch pending |
 | [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | AI cover letter generator, orchestrated with n8n | In real use |
 | [**PDF Technical Assistant**](https://github.com/egarciav99/PdfTechAssistant) · [demo](https://pdf-tech-assistant2.vercel.app) | RAG assistant for technical documentation (Supabase + pgvector + Gemini) | Working, in active development |
 | [**EG Solutions website**](https://github.com/egarciav99/EG-solutions) · [site](https://www.egsolutions.tech) | My company's site, with AI lead classification and automatic follow-up | In production |
 
-I also run n8n automations every day: a LinkedIn content engine with human approval, an industry news radar and email triage.
+I also run n8n automations every day: a LinkedIn content engine with human approval, an industry news radar and email triage. There is also a [Python API (FastAPI)](https://github.com/egarciav99/pdf-text-extractor-api) that extracts text from PDFs, built to be called from n8n.
 
 ## Stack
 
