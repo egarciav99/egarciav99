@@ -1,6 +1,6 @@
 # Hola, soy Elier García 👋
 
-🇬🇧 [Read in English](README.en.md)
+🇬🇧 [Read in English](https://github.com/egarciav99/egarciav99/blob/main/README.en.md)
 
 Ingeniero eléctrico que construye **plataformas web, automatizaciones y agentes de IA**. Vivo en Madrid y dirijo [EG Solutions](https://www.egsolutions.tech), donde trabajo con negocios de España y México.
 

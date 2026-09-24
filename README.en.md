@@ -1,6 +1,6 @@
 # Hi, I'm Elier García 👋
 
-🇪🇸 [Leer en español](README.md)
+🇪🇸 [Leer en español](https://github.com/egarciav99/egarciav99/blob/main/README.md)
 
 Electrical engineer building **web platforms, automations and AI agents**. I'm based in Madrid and run [EG Solutions](https://www.egsolutions.tech), working with businesses in Spain and Mexico.
 
