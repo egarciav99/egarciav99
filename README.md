@@ -13,7 +13,7 @@ Antes coordiné obra eléctrica en un data center de Microsoft y en una nave de 
 | Proyecto | Qué es | Estado |
 |---|---|---|
 | [**PDF Technical Assistant**](https://github.com/egarciav99/PdfTechAssistant) · [demo](https://pdf-tech-assistant2.vercel.app) | Asistente RAG multiempresa para documentación técnica: cada empresa consulta sus PDF y solo ve los suyos (Supabase + pgvector + Gemini) | Funcional, multiempresa |
-| [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | Generador de cartas de presentación con IA, con n8n de por medio | En uso real |
+| [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | Búsqueda de empleo con IA: cartas adaptadas a cada oferta (n8n + Gemini), creador de CV, encaje con la oferta, seguimiento de candidaturas y preparación de entrevistas | En uso real, freemium |
 | [**Web de Carolina Guijarro**](https://carolinaguijarro.es) (cliente) | Web profesional de una consultora, con el formulario conectado a n8n: cada contacto va a Google Sheets y le llega un aviso por email | En producción |
 | [**Bocado AI**](https://bocado-ai.vercel.app) (código privado) | App de nutrición con IA. Proyecto en colaboración: me encargué de toda la parte técnica | Demo funcional, lanzamiento pendiente |
 | [**EG Solutions web**](https://github.com/egarciav99/EG-solutions) · [web](https://www.egsolutions.tech) | Web de mi empresa, con clasificación de leads por IA y seguimiento automático | En producción |
