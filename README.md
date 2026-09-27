@@ -12,12 +12,12 @@ Antes coordiné obra eléctrica en un data center de Microsoft y en una nave de 
 
 | Proyecto | Qué es | Estado |
 |---|---|---|
-| [**CoreIT**](https://github.com/egarciav99/CoreIT) | Hub de automatizaciones para empresas. Conecta con n8n: PDF técnico → secciones → revisión humana → Excel | Prototipo, presentado al primer cliente |
-| [**Bocado AI**](https://bocado-ai.vercel.app) (código privado) | App de nutrición con IA. Proyecto en colaboración: me encargué de toda la parte técnica | Demo funcional, lanzamiento pendiente |
+| [**PDF Technical Assistant**](https://github.com/egarciav99/PdfTechAssistant) · [demo](https://pdf-tech-assistant2.vercel.app) | Asistente RAG multiempresa para documentación técnica: cada empresa consulta sus PDF y solo ve los suyos (Supabase + pgvector + Gemini) | Funcional, multiempresa |
 | [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | Generador de cartas de presentación con IA, con n8n de por medio | En uso real |
-| [**PDF Technical Assistant**](https://github.com/egarciav99/PdfTechAssistant) · [demo](https://pdf-tech-assistant2.vercel.app) | Asistente RAG para documentación técnica (Supabase + pgvector + Gemini) | Funcional, en desarrollo |
-| [**EG Solutions web**](https://github.com/egarciav99/EG-solutions) · [web](https://www.egsolutions.tech) | Web de mi empresa, con clasificación de leads por IA y seguimiento automático | En producción |
 | [**Web de Carolina Guijarro**](https://carolinaguijarro.es) (cliente) | Web profesional de una consultora, con el formulario conectado a n8n: cada contacto va a Google Sheets y le llega un aviso por email | En producción |
+| [**Bocado AI**](https://bocado-ai.vercel.app) (código privado) | App de nutrición con IA. Proyecto en colaboración: me encargué de toda la parte técnica | Demo funcional, lanzamiento pendiente |
+| [**EG Solutions web**](https://github.com/egarciav99/EG-solutions) · [web](https://www.egsolutions.tech) | Web de mi empresa, con clasificación de leads por IA y seguimiento automático | En producción |
+| [**CoreIT**](https://github.com/egarciav99/CoreIT) | Hub de automatizaciones para empresas. Conecta con n8n: PDF técnico → secciones → revisión humana → Excel | Prototipo, presentado al primer cliente |
 | [**Data Analytics Portfolio**](https://github.com/egarciav99/data-analytics-portfolio) | Trabajos del máster en Python y SQL: datos abiertos de Madrid, ETL a un data warehouse en PostgreSQL y SQL con CTE y funciones de ventana | Académico |
 
 Además tengo automatizaciones en n8n que uso a diario: un motor de contenido para LinkedIn con aprobación humana, un radar de noticias del sector y triaje de correo. También tengo una [API en Python (FastAPI)](https://github.com/egarciav99/pdf-text-extractor-api) que extrae el texto de PDFs, pensada para usarse desde n8n.
