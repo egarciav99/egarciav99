@@ -13,7 +13,7 @@ Before that I coordinated electrical construction on a Microsoft data center and
 | Project | What it is | Status |
 |---|---|---|
 | [**PDF Technical Assistant**](https://github.com/egarciav99/PdfTechAssistant) · [demo](https://pdf-tech-assistant2.vercel.app) | Multi-company RAG assistant for technical documentation: each company queries its own PDFs and only sees its own (Supabase + pgvector + Gemini) | Working, multi-company |
-| [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | AI cover letter generator, orchestrated with n8n | In real use |
+| [**CoverCraft**](https://github.com/egarciav99/cover-letters) · [demo](https://coverletter2.vercel.app) | AI job-search toolkit: cover letters tailored to each job (n8n + Gemini), CV builder, job fit score, application tracking and interview prep | In real use, freemium |
 | [**Carolina Guijarro's website**](https://carolinaguijarro.es) (client) | Professional site for a consultant, with the contact form wired to n8n: every lead goes to Google Sheets and triggers an email alert | In production |
 | [**Bocado AI**](https://bocado-ai.vercel.app) (private code) | AI nutrition app. A collaboration where I led all the tech | Working demo, launch pending |
 | [**EG Solutions website**](https://github.com/egarciav99/EG-solutions) · [site](https://www.egsolutions.tech) | My company's site, with AI lead classification and automatic follow-up | In production |
